@@ -1,6 +1,0 @@
-{
-  "port": 3001,
-  "mongoUri": "mongodb+srv://qeorqe:1234qwer@cluster0.qox7y.mongodb.net/app?retryWrites=true&w=majority",
-  "jwtSecret": "if i will get a job it will be amazing",
-  "baseUrl": "http://localhost:3001"
-}
